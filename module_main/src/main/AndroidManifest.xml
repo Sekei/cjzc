@@ -3,7 +3,9 @@
     package="com.guiying.module.main">
 
     <application android:theme="@style/AppTheme">
-        <activity android:name="com.guiying.module.main.MainActivity">
+        <activity
+            android:name=".BottomNavigationActivity"
+            android:label="@string/title_activity_fragment_module">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
@@ -11,7 +13,7 @@
             </intent-filter>
         </activity>
         <activity
-            android:name=".BottomNavigationActivity"
+            android:name=".MainActivity"
             android:label="@string/title_activity_fragment_module">
 
         </activity>
