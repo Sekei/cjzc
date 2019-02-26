@@ -8,8 +8,8 @@
 
 ### 版权说明：该项目纯属练手项目，不作为商用项目！有涉及到侵权请告知删除，涉及商用侵权与本人无关
 
-![image](https://github.com/Sekei/cjzc/blob/master/images/5.png)
-![image](https://github.com/Sekei/cjzc/blob/master/images/6.png)
+![image](https://github.com/Sekei/cjzc/blob/master/images/5.jpg)
+![image](https://github.com/Sekei/cjzc/blob/master/images/6.jpg)
 
 应用截图如下：
 
