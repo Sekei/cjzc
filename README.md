@@ -11,7 +11,7 @@
 ![image](https://github.com/Sekei/cjzc/blob/master/images/5.jpg)
 ![image](https://github.com/Sekei/cjzc/blob/master/images/6.jpg)
 
-应用截图如下：
+<h2>应用截图如下：</h2>
 
 ![image](https://github.com/Sekei/cjzc/blob/master/images/1.png)
 ![image](https://github.com/Sekei/cjzc/blob/master/images/2.png)
